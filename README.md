@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # NAME: MOHAMMAD FAIZAL SK
 # REG NO: 212223240092
-# DATE: 10.04.2025
+# DATE: 17.04.2025
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
